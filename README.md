@@ -47,25 +47,25 @@ It is a tool to read them better and faster.
 
 🔒 Answers constrained to the provided corpus
 
-🚀 Typical Workflow
+# 🚀 Typical Workflow
 
-Add PDFs to data/pdfs/
+1. Add PDFs to data/pdfs/
 
-Run the ingestion pipeline
+2. Run the ingestion pipeline
 
-Ask questions about your corpus
+3. Ask questions about your corpus
 
-Receive structured, cited answers
+4. Receive structured, cited answers
 
 Example questions:
 
-Which papers use method X after 2020?
+* Which papers use method X after 2020?
 
-What are the main assumptions behind model Y?
+* What are the main assumptions behind model Y?
 
-Compare the conclusions of Smith et al. and Dupont et al.
+* Compare the conclusions of Smith et al. and Dupont et al.
 
-Explain this method at a Master’s level.
+* Explain this method at a Master’s level.
 
 # 🧪 Design Philosophy
 
